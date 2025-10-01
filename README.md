@@ -1,14 +1,14 @@
 # AutoCAD-Residential-Project🏗️
-A 2D and 3D architectural building design project developed in AutoCAD, featuring detailed floor plans, elevations, and AI-assisted renderings for enhanced visualization.
+A 2D and 3D architectural building design project of approx. 8190 sq. ft.  developed in AutoCAD, featuring detailed floor plans and AI-assisted renderings for enhanced visualization.
 
 
 ## 📌 Description
-A 2D and 3D architectural building design project developed in AutoCAD, featuring detailed floor plans, elevations, and AI-assisted renderings for enhanced visualization.
+A 2D and 3D architectural building design project of approx. 8190 sq. ft. developed in AutoCAD, featuring detailed floor plans and AI-assisted renderings for enhanced visualization.
 
 
 ## 📖 Overview
 This project demonstrates the use of **AutoCAD for architectural planning and visualization**.  
-The design covers a **G+2 residential building (32 ft × 50 ft)** with precise measurements, technical detailing, and photorealistic renderings generated using **mnml.ai**.  
+The design covers a **G+4 residential building (90 ft × 91 ft)** with precise measurements, technical detailing, and photorealistic renderings generated using **mnml.ai**.  
 
 It highlights proficiency in:
 - CAD drafting  
