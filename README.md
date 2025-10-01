@@ -29,7 +29,8 @@ It highlights proficiency in:
 ## 📷 Project Visuals
 ![autocad 3d ai generated](https://github.com/user-attachments/assets/6987d207-232b-43a9-a3ab-95a6f3342576)
 <img width="569" height="487" alt="autocad 2 d plan" src="https://github.com/user-attachments/assets/f7800bc3-6886-4fe9-8ffb-486691c99105" />
-https://1drv.ms/i/c/4eecf09d04b81b09/ERDFRR0Uou9PjWYqmX9PD5QBJJy0Yr95aw1ZEQgC1CbRpw?e=N2VjYf
+<img width="648" height="410" alt="Capture - final" src="https://github.com/user-attachments/assets/59eb7c86-4153-4fb2-916c-c339a36cd6f0" />
+
 
 
 
